@@ -10,7 +10,7 @@ body, html {
      background-size: cover;
      opacity: 0.8;
 }
-.centered {
+.center-text {
     position: absolute;
     font-family: 'Brush Script MT';
     font-size:120px;
