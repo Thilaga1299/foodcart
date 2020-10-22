@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-lastpage',
+  selector: 'lastpage',
   templateUrl: './lastpage.component.html',
   styleUrls: ['./lastpage.component.css']
 })
